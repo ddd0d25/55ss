@@ -1,0 +1,34 @@
+def func9(arg56, arg57):
+    if arg57 < arg56:
+        var62 = class10()
+    else:
+        var62 = class12()
+    for var63 in range(40):
+        var64 = var62.func11
+        var64(var63, var63)
+    result = (-1798418602 | arg56) + 1641267108 | 1998595575 & (arg57 - ((529 + arg56) - (412550672 + arg56 & 762058778)) ^ 435)
+    return result
+class class12(object):
+    def func11(self, arg60, arg61):
+        result = arg61 - 1134892398 & arg60 + arg61 ^ (0 + arg61 - arg60)
+        return result
+class class10(class12):
+    def func11(self, arg58, arg59):
+        return 0
+def func1(arg1, arg2):
+    if arg1 < arg2:
+        var7 = class2()
+    else:
+        var7 = class4()
+    for var8 in xrange(4):
+        var9 = var7.func3
+        var9(arg1, arg2)
+    def func6(arg10, arg11):
+        var16 = func7(arg1, arg10)
+        def func8(arg17, arg18):
+            var19 = ((arg10 | arg10) ^ 1215383250) - arg10
+            var20 = -1122849912 & var16
+            if arg17 < var20:
+                var21 = var20 & (arg1 & arg17 - arg1)
+            else:
+                var21 = arg10 + arg18
